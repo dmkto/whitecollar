@@ -5,9 +5,6 @@ description: Discover the literary world of Dewan Mukto, a self-published author
 permalink: /books
 ---
 
-Books
-=====
-
 Dewan Mukto has self-published several novels since 2016 via the means of online platforms like [Wattpad](https://wattpad.com/user/d1stil), [Inkitt](https://inkitt.com/dewanmukto), [Webnovel](https://www.webnovel.com/profile/4322246237), etc.
 
 But the passion for writing stories and novels stretch a long rope of origin back as early as 2007 when he penned fanfiction based on cartoon characters from TV shows such as *Spongebob Squarepants*. Then from 2014 onwards, video games such as *Miami Vice*, *Max Payne 2*, *Grand Theft Auto IV*, and *Battlefield 3* played a major role in inspiring their thematic essence directly and indirectly into the literary craftsmanship for his upcoming novel-length stories. Of which, MIW New Dawn (later renamed as Action Heroes) and Cooper Black are the most notorious for having siphoned ideas from the games Dewan had played.
@@ -27,14 +24,14 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 2016
 ----
 
--   [Cooper Black](https://play.google.com/store/books/details/Dewan_Mukto_Cooper_Black_Classic_Edition_2016?id=blWIEAAAQBAJ)
+-   [Cooper Black](https://play.google.com/store/books/details/Dewan_Mukto_Cooper_Black_Classic_Edition_2016?id=blWIEAAAQBAJ) (ISBN 9781446748886)
 
 2017
 ----
 
--   [Knightspeak](https://play.google.com/store/books/details/Dewan_Mukto_Knightspeak?id=ji_WEAAAQBAJ)
--   [Dead Man Alive](https://play.google.com/store/books/details/Dewan_Mukto_Dead_Man_Alive?id=wi_WEAAAQBAJ)
--   [A Khajiit's Tale : A Skyrim Fanfiction](https://play.google.com/store/books/details/Dewan_Mukto_A_Khajiit_s_Tale?id=yyGIEAAAQBAJ)
+-   [Knightspeak](https://play.google.com/store/books/details/Dewan_Mukto_Knightspeak?id=ji_WEAAAQBAJ) (ISBN 9781446741047)
+-   [Dead Man Alive](https://play.google.com/store/books/details/Dewan_Mukto_Dead_Man_Alive?id=wi_WEAAAQBAJ) (ISBN 9781446740972) 
+-   [A Khajiit's Tale : A Skyrim Fanfiction](https://play.google.com/store/books/details/Dewan_Mukto_A_Khajiit_s_Tale?id=yyGIEAAAQBAJ) (ISBN 9781387635672)
 
 2018
 ----
@@ -48,16 +45,16 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 2019
 ----
 
--   [Synaesthetic Symphonies](https://play.google.com/store/books/details/Dewan_Mukto_Synaesthetic_Symphonies?id=-5bTEAAAQBAJ)
+-   [Synaesthetic Symphonies](https://play.google.com/store/books/details/Dewan_Mukto_Synaesthetic_Symphonies?id=-5bTEAAAQBAJ) (ISBN 9781446750544)
 -   Cooper Black : Disarrayed Dimensions
--   [One One One: Colors of Infinite Grief](https://play.google.com/store/books/details/Dewan_Mukto_Colors_Of_Infinite_Grief?id=uz3WEAAAQBAJ)
--   [Dewan Mukto's IELTS Guide](https://play.google.com/store/books/details/Dewan_Mukto_Dewan_Mukto_s_IELTS_Guide?id=yi7WEAAAQBAJ)
+-   [One One One: Colors of Infinite Grief](https://play.google.com/store/books/details/Dewan_Mukto_Colors_Of_Infinite_Grief?id=uz3WEAAAQBAJ) (ISBN 9781446740286)
+-   [Dewan Mukto's IELTS Guide](https://play.google.com/store/books/details/Dewan_Mukto_Dewan_Mukto_s_IELTS_Guide?id=yi7WEAAAQBAJ) (ISBN 9781446741153)
 
 2020
 ----
 
 -   Renaissa
--   [One One One : Under A Corrupt Sun](https://play.google.com/store/books/details/Dewan_Mukto_Under_A_Corrupt_Sun?id=-zLWEAAAQBAJ)
+-   [One One One : Under A Corrupt Sun](https://play.google.com/store/books/details/Dewan_Mukto_Under_A_Corrupt_Sun?id=-zLWEAAAQBAJ) (ISBN 9781446740903)
 
 2021
 ----
@@ -69,7 +66,7 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 
 -   Cooper Black : The Hombre
 -   Serpent-Skinned Sapiens
--   [The Inkmaster](https://play.google.com/store/books/details/Dewan_Mukto_The_Inkmaster?id=rVamEAAAQBAJ)
+-   [The Inkmaster](https://play.google.com/store/books/details/Dewan_Mukto_The_Inkmaster?id=rVamEAAAQBAJ) (ISBN 9781387635672)
 
 2023
 ----
