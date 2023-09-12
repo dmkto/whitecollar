@@ -2,7 +2,7 @@
 layout: post
 title: Importance of Computer Science
 date: 2020-06-17
-image: 12.jpg
+image: 6.jpg
 tags: [computerscience, suggestions]
 categories: articles
 ---
