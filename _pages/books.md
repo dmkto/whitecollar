@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Books
 description: Discover the literary world of Dewan Mukto, a self-published author whose passion for writing extends back to 2007. With over a dozen works to his name, Mukto's writing promises to captivate and transport you to new dimensions.
 permalink: /books
