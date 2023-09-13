@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mastering Productivity: The Procrasticide Revolution
+title: Mastering Productivity - The Procrasticide Revolution
 image: 8.jpg
 date: 2023-09-13
 tags: [solutions, app]
