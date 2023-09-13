@@ -19,7 +19,7 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 2015
 ----
 
--   [Blockaterra Legends](https://www.webnovel.com/book/blockaterra-legends-a-minecraft-fanfiction_26129572006363905 "Blockaterra Legends")
+-   [Blockaterra Legends](https://www.webnovel.com/book/blockaterra-legends-a-minecraft-fanfiction_26129572006363905)
 
 2016
 ----
@@ -36,7 +36,7 @@ Nonetheless, here follows a chronological collection of books and works, both pu
 2018
 ----
 
--   The Stellarborn
+-   [The Stellarborn](https://www.wattpad.com/story/128750411-the-stellarborn)
 -   Synapsed
 -   Loaded Barrels
 -   Vindicason
