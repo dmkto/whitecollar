@@ -8,6 +8,6 @@ The result? A clean text-focused Jekyll theme for quickly jotting down ideas!
 
 ### Screenshots
 
-![](/images/thumb1.png)
-
-![](/images/thumb2.png)
+|Homepage|Page/Post|
+|:---:|:---:|
+|![](/images/thumb1.png)|![](/images/thumb2.png)|
